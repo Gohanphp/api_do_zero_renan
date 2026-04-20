@@ -1,1 +1,7 @@
-class Crianca:
+from dataclasses import dataclass
+@dataclass
+
+class crianca:
+    def__init__(self, id: int, nome:str, idade: int, responsavel: str):
+        pass
+
