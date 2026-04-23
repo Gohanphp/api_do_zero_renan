@@ -8,6 +8,6 @@ class crianca:
     def idade_crianca(self) -> int:
         if self.idade_crianca <= 0  or self.idade_crianca <= 11:
             print(" É uma criança")
-
+        else print("Não é uma criança")
 
 
